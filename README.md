@@ -1,5 +1,9 @@
 # Molotow-Colors-Json
 Molotow Colors in Json format
-2022-03 | 252 colors
+2022-03 | 252 colors MOLOTOW - BELTON PREMIUM 400ML
 
-Use : https://www.endtoend.fr/color-picker/
+Color Picker : https://www.endtoend.fr/color-picker/
+
+
+
+
