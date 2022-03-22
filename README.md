@@ -1,5 +1,5 @@
 # Molotow-Colors-Json
-Molotow Colors in Json format
+Molotow Colors - Json format
 
 252 colors MOLOTOW - BELTON PREMIUM 400ML
 
