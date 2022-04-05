@@ -1,4 +1,4 @@
-[
+export default [
   {
     "hex": "#fdf4a6",
     "name": "jasmin Yellow",
