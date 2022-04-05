@@ -1,4 +1,4 @@
-[
+export default [
     {
       "hex": "#be3819",
       "name": "Orange Phénix",
