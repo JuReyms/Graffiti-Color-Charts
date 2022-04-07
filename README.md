@@ -1,4 +1,4 @@
-# Graffiti color charts - Javascript Objects
+# Graffiti color charts - Javascript Objects & CSV
 
 -   Molotow Premium - JS Objects - 260 colors - 400ml
 
