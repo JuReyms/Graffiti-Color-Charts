@@ -14,6 +14,10 @@ Color Picker : https://color.endtoend.fr
 
 2022-04
 
+-----
+
+![graffiti-color-chart](graffiti-color-chart.jpg)
+
 
 
 
