@@ -1,10 +1,12 @@
 # Graffiti color charts - Javascript Objects
 
--   Molotow  - JS Objects - 252 colors MOLOTOW - BELTON PREMIUM - 400ml
+-   Molotow Premium - JS Objects - 260 colors - 400ml
 
--   Montana - JS Objects - 197 colors MONTANA - MTN94 - 400ml
+-   Montana 94 - JS Objects - 204 colors - 400ml
 
--   Montana Cans - JS Objects - 181 colors MONTANA CANS - BLACK - 400ml
+-   Montana Cans Black - JS Objects - 181 colors - 400ml
+
+-   Montana Harcore - JS Objects - 142 colors - 400ml
 
 ------
 
