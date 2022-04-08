@@ -1,0 +1,99 @@
+name,ref,hex
+Cadmium Yellow Light ,RV-222,#FFE885
+Cadmium Yellow Medium ,RV-1021,#FFDD35 
+Azo Yellow Deep ,RV-177,#EAB63E
+Yellow Ocre ,RV-264,#BA8032 
+Raw Sienna ,RV-265,#9D6F3C 
+Azo Orange Pale ,RV-102,#F7B792 
+Azo Orange Light ,RV-105,#FF9955 
+Azo Orange ,RV-2004,#FF6F22
+Azo Orange Deep ,RV-209,#F05136 
+Azo Orange Dark ,RV-347,#D30C14 
+Cadmium Red Pale  ,RV-322,#F39C9A
+Cadmium Red Light ,RV-223,#EA746A 
+Naphthol Red ,RV-3020,#DE4343
+Naphthol Red Deep ,RV-241,#B11000
+Carmine ,RV-3004,#8E0029
+Quinacridone Rose Light  ,RV-323,#EE82A4
+Quinacridone Rose ,RV-211,#EE82A4 
+Quinacridone Magenta ,RV-4010,#D84465
+Red Violet ,RV-213,#B60052
+Red Violet Deep ,RV-324,#7C3253
+Blue Violet Pale ,RV-325,#DEA6BD
+Blue Violet Light ,RV-224,#CC8FA8
+Blue Violet ,RV-225,#B74D78
+Blue Violet Deep ,RV-167,#87436D
+Blue Violet Dark ,RV-169,#5B364D
+Dioxazine Purple Pale ,RV-321,#DACBEE
+Dioxazine Purple Light ,RV-214,#C199C8
+Dioxazine Purple  ,RV-173,#6F71B9 
+Dioxazine Purple Deep ,RV-174,#765EAD
+Dioxazine Purple Dark ,RV-28,#280773
+Phthalo Blue Pale ,RV-326,#CCF3F0 
+Phthalo Blue Light ,RV-29,99DBE5
+Cerulean Blue ,RV-217,#009ECC 
+Prussian Blue ,RV-30,#1366A0 
+Prussian Blue Deep ,RV-154,#005082
+Cobalt Blue Pale ,RV-327,#88C5E4
+Cobalt Blue Light ,RV-69,#4492C6 
+Cobalt Blue ,RV-68,#28628E 
+Ultramarine Blue ,RV-5002,#385988
+Ultramarine Blue Deep ,RV-328,#2E3A62 
+Primary Blue Pale ,RV-336,#5CA5DA
+Primary Blue Light ,RV-337,#5388C6
+Primary Blue ,RV-338,#245BA7
+Primary Blue Deep ,RV-339,#23388D
+Primary Blue Dark ,RV-340,#25348A
+Blue Green Pale ,RV-341,#88CDD3
+Blue Green Light  ,RV-342,#06B5D2
+Blue Green  ,RV-343,#028DB4
+Blue Green Deep ,RV-14,#00789A
+Blue Green Dark ,RV-234,#005476
+Phathalo Green Blue ,RV-254,#BBE9DE 
+Turquoise Green ,RV-219,#00D2B3 
+Emerald Green Light ,RV-220,#57B798
+Emerald Green ,RV-21,#00957E 
+Emeral Green Deep ,RV-221,#055F5D 
+Brillant Yellow Green Light ,RV-235,#E6E782
+Brillant Yellow Green ,RV-236,#CED664
+Brillant Yellow Green Medium ,RV-333,#9BBE53
+Brillant Yellow Green Deep ,RV-334,#569426
+Brillant Yellow Green Dark ,RV-335,#36792B
+Phathalo Green Light ,RV-124,#C8DD9B
+Phathalo Green  ,RV-329,#9CCC95
+Brillant Light Green ,RV-34,#67B346 
+Brillant Green ,RV-6018,#56944F 
+Brillant Green Deep ,RV-127,#255C1E 
+Grey Green Pale ,RV-344,#C4CBA9
+Grey Green Light ,RV-345,#BEC39E
+Grey Green ,RV-179,#757A4F
+Grey Green Deep ,RV-131,#647253
+Grey Green Dark ,RV-346,#4A5D45
+Titanium light  ,RV-1013,#F3DA9A
+Naples Yellow ,RV-135,#F4CF81 
+Naples Yellow Deep ,RV-330,#D7B483
+Raw Umber ,RV-137,#B0946F
+Raw Umber Deep ,RV-139,#745B48
+Warm Grey Pale ,RV-331,#D9D6CF
+Warm Grey Light ,RV-302,#CbC2B0
+Warm Grey Medium ,RV-303,#C0B6A4
+Warm Grey Deep ,RV-332,#645C59
+Burnt Umber ,RV-266,#66564F
+Neutral Grey Pale ,RV-6,#D2D7D8
+Neutral Grey Light ,RV-7047,#B4B8B6 
+Neutral Grey ,RV-7040,#A5AAA8 
+Neutral Grey Deep ,RV-263,#676C73 
+Neutral Grey Dark ,RV-7016,#555357
+Fluorescent Yellow ,RV-Fluo-1,#FFED39
+Fluorescent Red ,RV-Fluo-2,#F95951
+Fluorescent Magenta ,RV-Fluo-2,#FF0093
+Fluorescent Green ,RV-Fluo-3,#60DD49
+Fluorescent Blue ,RV-Fluo-4,#00AACC
+Carbon Black ,RV-Carbon,#000000
+Titanium White ,RV-Titanium,#FFFFFF
+Silver ,RV-Silver,#999999
+Gold ,RV-Gold,#826107
+Transparent Black ,RV-T-Black,#000000
+Transparent White ,RV-T-White,#FFFFFF
+Glossy Varnish ,RV-Glossy,#f1f1f1
+Matt Varnish ,RV-Matt,#f3f3f3
