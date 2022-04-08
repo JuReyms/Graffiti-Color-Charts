@@ -8,6 +8,8 @@
 
 -   Montana Harcore - JS Objects - 142 colors - 400ml
 
+-   Montana Water Based - JS Objetcs - 98 colors - 300ml
+
 ------
 
 Color Picker : https://color.endtoend.fr
